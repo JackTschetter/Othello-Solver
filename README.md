@@ -8,4 +8,4 @@ Java program with GUI to play a game of Othello (Reversi). There are 3 options f
 
 ## How to use
 
-### Future Changes
+## Future Changes
